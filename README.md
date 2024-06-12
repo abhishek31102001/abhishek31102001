@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abhishek chavan
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning java
+- 👀 I’m interested in Web Development || Cloud Operations AWS
+- 🌱 I’m currently learning Enterprise AI
 - 💞️ I’m looking to collaborate on MNC
 - 📫 How to reach me ?
 
